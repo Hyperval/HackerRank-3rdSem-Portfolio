@@ -4,7 +4,7 @@ Algorithmic problem-solving portfolio for the course *Portfolio Building for Eng
 
 **Author:** Akhil Sathish Kumar (Reg No: R25EF019)
 **GitHub:** [Hyperval](https://github.com/Hyperval)
-**HackerRank profile:** *[paste your public HackerRank profile URL here]*
+**HackerRank profile:** [@akhiliww](https://www.hackerrank.com/profile/akhiliww) *(3-star Problem Solving badge)*
 **Language:** Python 3
 
 ## Problem Set
